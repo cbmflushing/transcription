@@ -1,5 +1,4 @@
-#!/bin/zsh
-# change the shebang above to bash if needed
+#!/bin/bash
 # USAGE: youtube-and-whisper.sh {youtube-link}
 # e.g. ./youtube-and-whisper.sh https://www.youtube.com/watch?v=wcBpuiefGaw
 
